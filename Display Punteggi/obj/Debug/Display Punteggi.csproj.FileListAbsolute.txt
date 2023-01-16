@@ -1,0 +1,24 @@
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe.config
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.pdb
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.frmTabellone.resources
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Properties.Resources.resources
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.GenerateResource.cache
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.exe
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.pdb
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Visualizzatore.resources
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.AssemblyReference.cache
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuli\source\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.CoreCompileInputs.cache
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.AssemblyReference.cache
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.frmTabellone.resources
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Properties.Resources.resources
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Visualizzatore.resources
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.GenerateResource.cache
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.CoreCompileInputs.cache
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.exe
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.pdb
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe.config
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe
+C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.pdb

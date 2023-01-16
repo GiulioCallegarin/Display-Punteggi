@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "421d8e12-a4ff-4042-94cd-dbccacbede9e": {
+      "ProjectGuid": "421d8e12-a4ff-4042-94cd-dbccacbede9e",
+      "DisplayName": "Display Punteggi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
