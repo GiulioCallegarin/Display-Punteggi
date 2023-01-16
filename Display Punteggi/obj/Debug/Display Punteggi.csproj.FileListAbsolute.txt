@@ -22,3 +22,15 @@ C:\Users\Public\repos\Display Punteggi\Display Punteggi\obj\Debug\Display Punteg
 C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe.config
 C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe
 C:\Users\Public\repos\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.pdb
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe.config
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.exe
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\bin\Debug\Display Punteggi.pdb
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.AssemblyReference.cache
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.SuggestedBindingRedirects.cache
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.frmTabellone.resources
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Properties.Resources.resources
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display_Punteggi.Visualizzatore.resources
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.GenerateResource.cache
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.csproj.CoreCompileInputs.cache
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.exe
+C:\Users\giuli\Desktop\pi\files\Display Punteggi\Display Punteggi\Display Punteggi\obj\Debug\Display Punteggi.pdb

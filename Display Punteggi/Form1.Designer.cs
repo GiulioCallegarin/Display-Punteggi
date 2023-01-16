@@ -365,9 +365,9 @@
             this.pnlPreview1.Controls.Add(this.lblP1_1);
             this.pnlPreview1.Controls.Add(this.lblG1);
             this.pnlPreview1.Controls.Add(this.lblN1_2);
-            this.pnlPreview1.Location = new System.Drawing.Point(754, 45);
+            this.pnlPreview1.Location = new System.Drawing.Point(739, 45);
             this.pnlPreview1.Name = "pnlPreview1";
-            this.pnlPreview1.Size = new System.Drawing.Size(130, 98);
+            this.pnlPreview1.Size = new System.Drawing.Size(194, 130);
             this.pnlPreview1.TabIndex = 31;
             // 
             // lblP1_2
@@ -375,9 +375,9 @@
             this.lblP1_2.BackColor = System.Drawing.Color.Transparent;
             this.lblP1_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP1_2.ForeColor = System.Drawing.Color.White;
-            this.lblP1_2.Location = new System.Drawing.Point(64, 48);
+            this.lblP1_2.Location = new System.Drawing.Point(96, 64);
             this.lblP1_2.Name = "lblP1_2";
-            this.lblP1_2.Size = new System.Drawing.Size(64, 48);
+            this.lblP1_2.Size = new System.Drawing.Size(96, 64);
             this.lblP1_2.TabIndex = 21;
             this.lblP1_2.Text = "0";
             this.lblP1_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -386,9 +386,9 @@
             // 
             this.lblN1_1.BackColor = System.Drawing.Color.Transparent;
             this.lblN1_1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
-            this.lblN1_1.Location = new System.Drawing.Point(0, 16);
+            this.lblN1_1.Location = new System.Drawing.Point(0, 24);
             this.lblN1_1.Name = "lblN1_1";
-            this.lblN1_1.Size = new System.Drawing.Size(64, 32);
+            this.lblN1_1.Size = new System.Drawing.Size(96, 40);
             this.lblN1_1.TabIndex = 18;
             this.lblN1_1.Text = "Nome1";
             this.lblN1_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -398,9 +398,9 @@
             this.lblP1_1.BackColor = System.Drawing.Color.Transparent;
             this.lblP1_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 26F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP1_1.ForeColor = System.Drawing.Color.White;
-            this.lblP1_1.Location = new System.Drawing.Point(0, 48);
+            this.lblP1_1.Location = new System.Drawing.Point(0, 64);
             this.lblP1_1.Name = "lblP1_1";
-            this.lblP1_1.Size = new System.Drawing.Size(64, 48);
+            this.lblP1_1.Size = new System.Drawing.Size(96, 64);
             this.lblP1_1.TabIndex = 20;
             this.lblP1_1.Text = "0";
             this.lblP1_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -411,7 +411,7 @@
             this.lblG1.ForeColor = System.Drawing.Color.White;
             this.lblG1.Location = new System.Drawing.Point(0, 0);
             this.lblG1.Name = "lblG1";
-            this.lblG1.Size = new System.Drawing.Size(128, 16);
+            this.lblG1.Size = new System.Drawing.Size(192, 24);
             this.lblG1.TabIndex = 17;
             this.lblG1.Text = "Gara";
             this.lblG1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -420,9 +420,9 @@
             // 
             this.lblN1_2.BackColor = System.Drawing.Color.Transparent;
             this.lblN1_2.ForeColor = System.Drawing.Color.White;
-            this.lblN1_2.Location = new System.Drawing.Point(64, 16);
+            this.lblN1_2.Location = new System.Drawing.Point(96, 24);
             this.lblN1_2.Name = "lblN1_2";
-            this.lblN1_2.Size = new System.Drawing.Size(64, 32);
+            this.lblN1_2.Size = new System.Drawing.Size(96, 40);
             this.lblN1_2.TabIndex = 19;
             this.lblN1_2.Text = "Nome2";
             this.lblN1_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -577,7 +577,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(794, 25);
+            this.label2.Location = new System.Drawing.Point(810, 25);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(45, 13);
             this.label2.TabIndex = 28;
@@ -1199,7 +1199,7 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(899, 45);
+            this.btnUpdate.Location = new System.Drawing.Point(965, 50);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(75, 48);
             this.btnUpdate.TabIndex = 8;
@@ -1209,7 +1209,7 @@
             // 
             // btnPausa
             // 
-            this.btnPausa.Location = new System.Drawing.Point(899, 94);
+            this.btnPausa.Location = new System.Drawing.Point(965, 99);
             this.btnPausa.Name = "btnPausa";
             this.btnPausa.Size = new System.Drawing.Size(75, 49);
             this.btnPausa.TabIndex = 9;
@@ -1231,9 +1231,9 @@
             this.pnlPreview2.Controls.Add(this.lblG2_1);
             this.pnlPreview2.Controls.Add(this.lblN2_2);
             this.pnlPreview2.Controls.Add(this.lblP2_2);
-            this.pnlPreview2.Location = new System.Drawing.Point(754, 45);
+            this.pnlPreview2.Location = new System.Drawing.Point(739, 45);
             this.pnlPreview2.Name = "pnlPreview2";
-            this.pnlPreview2.Size = new System.Drawing.Size(130, 98);
+            this.pnlPreview2.Size = new System.Drawing.Size(194, 130);
             this.pnlPreview2.TabIndex = 32;
             // 
             // lblN2_3
@@ -1241,9 +1241,9 @@
             this.lblN2_3.BackColor = System.Drawing.Color.Transparent;
             this.lblN2_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN2_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
-            this.lblN2_3.Location = new System.Drawing.Point(0, 60);
+            this.lblN2_3.Location = new System.Drawing.Point(0, 78);
             this.lblN2_3.Name = "lblN2_3";
-            this.lblN2_3.Size = new System.Drawing.Size(64, 12);
+            this.lblN2_3.Size = new System.Drawing.Size(96, 14);
             this.lblN2_3.TabIndex = 23;
             this.lblN2_3.Text = "Nome3";
             this.lblN2_3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1253,9 +1253,9 @@
             this.lblP2_3.BackColor = System.Drawing.Color.Transparent;
             this.lblP2_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP2_3.ForeColor = System.Drawing.Color.White;
-            this.lblP2_3.Location = new System.Drawing.Point(0, 72);
+            this.lblP2_3.Location = new System.Drawing.Point(0, 92);
             this.lblP2_3.Name = "lblP2_3";
-            this.lblP2_3.Size = new System.Drawing.Size(64, 24);
+            this.lblP2_3.Size = new System.Drawing.Size(96, 36);
             this.lblP2_3.TabIndex = 25;
             this.lblP2_3.Text = "0";
             this.lblP2_3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1264,9 +1264,9 @@
             // 
             this.lblG2_2.BackColor = System.Drawing.Color.Transparent;
             this.lblG2_2.ForeColor = System.Drawing.Color.White;
-            this.lblG2_2.Location = new System.Drawing.Point(0, 48);
+            this.lblG2_2.Location = new System.Drawing.Point(0, 64);
             this.lblG2_2.Name = "lblG2_2";
-            this.lblG2_2.Size = new System.Drawing.Size(128, 12);
+            this.lblG2_2.Size = new System.Drawing.Size(192, 14);
             this.lblG2_2.TabIndex = 22;
             this.lblG2_2.Text = "Gara2";
             this.lblG2_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1275,9 +1275,9 @@
             // 
             this.lblN2_4.BackColor = System.Drawing.Color.Transparent;
             this.lblN2_4.ForeColor = System.Drawing.Color.White;
-            this.lblN2_4.Location = new System.Drawing.Point(61, 60);
+            this.lblN2_4.Location = new System.Drawing.Point(96, 78);
             this.lblN2_4.Name = "lblN2_4";
-            this.lblN2_4.Size = new System.Drawing.Size(64, 12);
+            this.lblN2_4.Size = new System.Drawing.Size(96, 14);
             this.lblN2_4.TabIndex = 24;
             this.lblN2_4.Text = "Nome4";
             this.lblN2_4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1287,9 +1287,9 @@
             this.lblP2_4.BackColor = System.Drawing.Color.Transparent;
             this.lblP2_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP2_4.ForeColor = System.Drawing.Color.White;
-            this.lblP2_4.Location = new System.Drawing.Point(64, 72);
+            this.lblP2_4.Location = new System.Drawing.Point(96, 92);
             this.lblP2_4.Name = "lblP2_4";
-            this.lblP2_4.Size = new System.Drawing.Size(64, 24);
+            this.lblP2_4.Size = new System.Drawing.Size(96, 36);
             this.lblP2_4.TabIndex = 26;
             this.lblP2_4.Text = "0";
             this.lblP2_4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1299,9 +1299,9 @@
             this.lblN2_1.BackColor = System.Drawing.Color.Transparent;
             this.lblN2_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN2_1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
-            this.lblN2_1.Location = new System.Drawing.Point(0, 12);
+            this.lblN2_1.Location = new System.Drawing.Point(0, 14);
             this.lblN2_1.Name = "lblN2_1";
-            this.lblN2_1.Size = new System.Drawing.Size(64, 12);
+            this.lblN2_1.Size = new System.Drawing.Size(96, 14);
             this.lblN2_1.TabIndex = 18;
             this.lblN2_1.Text = "Nome1";
             this.lblN2_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1311,9 +1311,9 @@
             this.lblP2_1.BackColor = System.Drawing.Color.Transparent;
             this.lblP2_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP2_1.ForeColor = System.Drawing.Color.White;
-            this.lblP2_1.Location = new System.Drawing.Point(0, 24);
+            this.lblP2_1.Location = new System.Drawing.Point(0, 28);
             this.lblP2_1.Name = "lblP2_1";
-            this.lblP2_1.Size = new System.Drawing.Size(64, 24);
+            this.lblP2_1.Size = new System.Drawing.Size(96, 36);
             this.lblP2_1.TabIndex = 20;
             this.lblP2_1.Text = "0";
             this.lblP2_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1324,7 +1324,7 @@
             this.lblG2_1.ForeColor = System.Drawing.Color.White;
             this.lblG2_1.Location = new System.Drawing.Point(0, 0);
             this.lblG2_1.Name = "lblG2_1";
-            this.lblG2_1.Size = new System.Drawing.Size(128, 12);
+            this.lblG2_1.Size = new System.Drawing.Size(192, 14);
             this.lblG2_1.TabIndex = 17;
             this.lblG2_1.Text = "Gara1";
             this.lblG2_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1333,9 +1333,9 @@
             // 
             this.lblN2_2.BackColor = System.Drawing.Color.Transparent;
             this.lblN2_2.ForeColor = System.Drawing.Color.White;
-            this.lblN2_2.Location = new System.Drawing.Point(61, 12);
+            this.lblN2_2.Location = new System.Drawing.Point(96, 14);
             this.lblN2_2.Name = "lblN2_2";
-            this.lblN2_2.Size = new System.Drawing.Size(64, 12);
+            this.lblN2_2.Size = new System.Drawing.Size(96, 14);
             this.lblN2_2.TabIndex = 19;
             this.lblN2_2.Text = "Nome2";
             this.lblN2_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1345,9 +1345,9 @@
             this.lblP2_2.BackColor = System.Drawing.Color.Transparent;
             this.lblP2_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP2_2.ForeColor = System.Drawing.Color.White;
-            this.lblP2_2.Location = new System.Drawing.Point(64, 24);
+            this.lblP2_2.Location = new System.Drawing.Point(96, 28);
             this.lblP2_2.Name = "lblP2_2";
-            this.lblP2_2.Size = new System.Drawing.Size(64, 24);
+            this.lblP2_2.Size = new System.Drawing.Size(96, 36);
             this.lblP2_2.TabIndex = 21;
             this.lblP2_2.Text = "0";
             this.lblP2_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1371,9 +1371,9 @@
             this.pnlPreview3.Controls.Add(this.lblG3_1);
             this.pnlPreview3.Controls.Add(this.lblN3_2);
             this.pnlPreview3.Controls.Add(this.lblP3_2);
-            this.pnlPreview3.Location = new System.Drawing.Point(754, 45);
+            this.pnlPreview3.Location = new System.Drawing.Point(739, 45);
             this.pnlPreview3.Name = "pnlPreview3";
-            this.pnlPreview3.Size = new System.Drawing.Size(130, 98);
+            this.pnlPreview3.Size = new System.Drawing.Size(194, 130);
             this.pnlPreview3.TabIndex = 33;
             // 
             // lblN3_5
@@ -1381,9 +1381,9 @@
             this.lblN3_5.BackColor = System.Drawing.Color.Transparent;
             this.lblN3_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN3_5.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
-            this.lblN3_5.Location = new System.Drawing.Point(0, 64);
+            this.lblN3_5.Location = new System.Drawing.Point(0, 86);
             this.lblN3_5.Name = "lblN3_5";
-            this.lblN3_5.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_5.Size = new System.Drawing.Size(72, 13);
             this.lblN3_5.TabIndex = 28;
             this.lblN3_5.Text = "Nome5";
             this.lblN3_5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1393,9 +1393,9 @@
             this.lblP3_5.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_5.ForeColor = System.Drawing.Color.White;
-            this.lblP3_5.Location = new System.Drawing.Point(0, 76);
+            this.lblP3_5.Location = new System.Drawing.Point(0, 99);
             this.lblP3_5.Name = "lblP3_5";
-            this.lblP3_5.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_5.Size = new System.Drawing.Size(96, 29);
             this.lblP3_5.TabIndex = 30;
             this.lblP3_5.Text = "0";
             this.lblP3_5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1405,9 +1405,9 @@
             this.lblG3_3.BackColor = System.Drawing.Color.Transparent;
             this.lblG3_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblG3_3.ForeColor = System.Drawing.Color.White;
-            this.lblG3_3.Location = new System.Drawing.Point(48, 64);
+            this.lblG3_3.Location = new System.Drawing.Point(72, 86);
             this.lblG3_3.Name = "lblG3_3";
-            this.lblG3_3.Size = new System.Drawing.Size(32, 12);
+            this.lblG3_3.Size = new System.Drawing.Size(48, 13);
             this.lblG3_3.TabIndex = 27;
             this.lblG3_3.Text = "G3";
             this.lblG3_3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1417,9 +1417,9 @@
             this.lblN3_6.BackColor = System.Drawing.Color.Transparent;
             this.lblN3_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN3_6.ForeColor = System.Drawing.Color.White;
-            this.lblN3_6.Location = new System.Drawing.Point(80, 64);
+            this.lblN3_6.Location = new System.Drawing.Point(120, 86);
             this.lblN3_6.Name = "lblN3_6";
-            this.lblN3_6.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_6.Size = new System.Drawing.Size(72, 13);
             this.lblN3_6.TabIndex = 29;
             this.lblN3_6.Text = "Nome6";
             this.lblN3_6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1429,9 +1429,9 @@
             this.lblP3_6.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_6.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_6.ForeColor = System.Drawing.Color.White;
-            this.lblP3_6.Location = new System.Drawing.Point(64, 76);
+            this.lblP3_6.Location = new System.Drawing.Point(96, 99);
             this.lblP3_6.Name = "lblP3_6";
-            this.lblP3_6.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_6.Size = new System.Drawing.Size(96, 29);
             this.lblP3_6.TabIndex = 31;
             this.lblP3_6.Text = "0";
             this.lblP3_6.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1441,9 +1441,9 @@
             this.lblN3_3.BackColor = System.Drawing.Color.Transparent;
             this.lblN3_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN3_3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
-            this.lblN3_3.Location = new System.Drawing.Point(0, 32);
+            this.lblN3_3.Location = new System.Drawing.Point(0, 43);
             this.lblN3_3.Name = "lblN3_3";
-            this.lblN3_3.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_3.Size = new System.Drawing.Size(72, 14);
             this.lblN3_3.TabIndex = 23;
             this.lblN3_3.Text = "Nome3";
             this.lblN3_3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1453,9 +1453,9 @@
             this.lblP3_3.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_3.ForeColor = System.Drawing.Color.White;
-            this.lblP3_3.Location = new System.Drawing.Point(0, 44);
+            this.lblP3_3.Location = new System.Drawing.Point(0, 57);
             this.lblP3_3.Name = "lblP3_3";
-            this.lblP3_3.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_3.Size = new System.Drawing.Size(96, 29);
             this.lblP3_3.TabIndex = 25;
             this.lblP3_3.Text = "0";
             this.lblP3_3.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1465,9 +1465,9 @@
             this.lblG3_2.BackColor = System.Drawing.Color.Transparent;
             this.lblG3_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblG3_2.ForeColor = System.Drawing.Color.White;
-            this.lblG3_2.Location = new System.Drawing.Point(48, 32);
+            this.lblG3_2.Location = new System.Drawing.Point(72, 43);
             this.lblG3_2.Name = "lblG3_2";
-            this.lblG3_2.Size = new System.Drawing.Size(32, 12);
+            this.lblG3_2.Size = new System.Drawing.Size(48, 14);
             this.lblG3_2.TabIndex = 22;
             this.lblG3_2.Text = "G2";
             this.lblG3_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1477,9 +1477,9 @@
             this.lblN3_4.BackColor = System.Drawing.Color.Transparent;
             this.lblN3_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN3_4.ForeColor = System.Drawing.Color.White;
-            this.lblN3_4.Location = new System.Drawing.Point(80, 32);
+            this.lblN3_4.Location = new System.Drawing.Point(120, 43);
             this.lblN3_4.Name = "lblN3_4";
-            this.lblN3_4.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_4.Size = new System.Drawing.Size(72, 14);
             this.lblN3_4.TabIndex = 24;
             this.lblN3_4.Text = "Nome4";
             this.lblN3_4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1489,9 +1489,9 @@
             this.lblP3_4.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_4.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_4.ForeColor = System.Drawing.Color.White;
-            this.lblP3_4.Location = new System.Drawing.Point(64, 44);
+            this.lblP3_4.Location = new System.Drawing.Point(96, 57);
             this.lblP3_4.Name = "lblP3_4";
-            this.lblP3_4.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_4.Size = new System.Drawing.Size(96, 29);
             this.lblP3_4.TabIndex = 26;
             this.lblP3_4.Text = "0";
             this.lblP3_4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1503,7 +1503,7 @@
             this.lblN3_1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(229)))), ((int)(((byte)(43)))), ((int)(((byte)(80)))));
             this.lblN3_1.Location = new System.Drawing.Point(0, 0);
             this.lblN3_1.Name = "lblN3_1";
-            this.lblN3_1.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_1.Size = new System.Drawing.Size(72, 14);
             this.lblN3_1.TabIndex = 18;
             this.lblN3_1.Text = "Nome1";
             this.lblN3_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1513,9 +1513,9 @@
             this.lblP3_1.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_1.ForeColor = System.Drawing.Color.White;
-            this.lblP3_1.Location = new System.Drawing.Point(0, 12);
+            this.lblP3_1.Location = new System.Drawing.Point(0, 14);
             this.lblP3_1.Name = "lblP3_1";
-            this.lblP3_1.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_1.Size = new System.Drawing.Size(96, 29);
             this.lblP3_1.TabIndex = 20;
             this.lblP3_1.Text = "0";
             this.lblP3_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1525,9 +1525,9 @@
             this.lblG3_1.BackColor = System.Drawing.Color.Transparent;
             this.lblG3_1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblG3_1.ForeColor = System.Drawing.Color.White;
-            this.lblG3_1.Location = new System.Drawing.Point(48, 0);
+            this.lblG3_1.Location = new System.Drawing.Point(72, 0);
             this.lblG3_1.Name = "lblG3_1";
-            this.lblG3_1.Size = new System.Drawing.Size(32, 12);
+            this.lblG3_1.Size = new System.Drawing.Size(48, 14);
             this.lblG3_1.TabIndex = 17;
             this.lblG3_1.Text = "G1";
             this.lblG3_1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1537,9 +1537,9 @@
             this.lblN3_2.BackColor = System.Drawing.Color.Transparent;
             this.lblN3_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblN3_2.ForeColor = System.Drawing.Color.White;
-            this.lblN3_2.Location = new System.Drawing.Point(80, 0);
+            this.lblN3_2.Location = new System.Drawing.Point(120, 0);
             this.lblN3_2.Name = "lblN3_2";
-            this.lblN3_2.Size = new System.Drawing.Size(48, 12);
+            this.lblN3_2.Size = new System.Drawing.Size(72, 14);
             this.lblN3_2.TabIndex = 19;
             this.lblN3_2.Text = "Nome2";
             this.lblN3_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -1549,16 +1549,16 @@
             this.lblP3_2.BackColor = System.Drawing.Color.Transparent;
             this.lblP3_2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblP3_2.ForeColor = System.Drawing.Color.White;
-            this.lblP3_2.Location = new System.Drawing.Point(64, 12);
+            this.lblP3_2.Location = new System.Drawing.Point(96, 14);
             this.lblP3_2.Name = "lblP3_2";
-            this.lblP3_2.Size = new System.Drawing.Size(64, 20);
+            this.lblP3_2.Size = new System.Drawing.Size(96, 29);
             this.lblP3_2.TabIndex = 21;
             this.lblP3_2.Text = "0";
             this.lblP3_2.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // btnReset
             // 
-            this.btnReset.Location = new System.Drawing.Point(899, 12);
+            this.btnReset.Location = new System.Drawing.Point(965, 17);
             this.btnReset.Name = "btnReset";
             this.btnReset.Size = new System.Drawing.Size(75, 23);
             this.btnReset.TabIndex = 10;
@@ -1649,9 +1649,9 @@
             this.pnlUnicorn.BackColor = System.Drawing.Color.White;
             this.pnlUnicorn.BackgroundImage = global::Display_Punteggi.Properties.Resources.img_18328;
             this.pnlUnicorn.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
-            this.pnlUnicorn.Location = new System.Drawing.Point(754, 45);
+            this.pnlUnicorn.Location = new System.Drawing.Point(739, 45);
             this.pnlUnicorn.Name = "pnlUnicorn";
-            this.pnlUnicorn.Size = new System.Drawing.Size(130, 98);
+            this.pnlUnicorn.Size = new System.Drawing.Size(194, 130);
             this.pnlUnicorn.TabIndex = 35;
             this.pnlUnicorn.Visible = false;
             // 
@@ -1659,13 +1659,10 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(986, 513);
-            this.Controls.Add(this.pnlUnicorn);
+            this.ClientSize = new System.Drawing.Size(1050, 513);
             this.Controls.Add(this.pnlPreview1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.btnReset);
-            this.Controls.Add(this.pnlPreview3);
-            this.Controls.Add(this.pnlPreview2);
             this.Controls.Add(this.btnPausa);
             this.Controls.Add(this.btnUpdate);
             this.Controls.Add(this.btnColorBack);
@@ -1679,6 +1676,9 @@
             this.Controls.Add(this.btnCancellaBack);
             this.Controls.Add(this.btnLoadBack);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.pnlPreview2);
+            this.Controls.Add(this.pnlUnicorn);
+            this.Controls.Add(this.pnlPreview3);
             this.ForeColor = System.Drawing.Color.Black;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "frmTabellone";

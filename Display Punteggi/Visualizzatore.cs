@@ -30,5 +30,15 @@ namespace Display_Punteggi
             pnlPreview2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             pnlPreview3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
         }
+
+        private void lblN2_2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pnlUnicorn_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
